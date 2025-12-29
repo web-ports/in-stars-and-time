@@ -400,7 +400,7 @@ Imported["SumRndmDde Translation Engine"] = 1.04;
 // $dataTranslations is the variable counterpart of "Translations.json"
 //-----------------------------------------------------------------------------
 
-var $dataTranslations = null;
+var $dataTranslations = window.$dataTranslations;
 
 //-----------------------------------------------------------------------------
 // Init classes
